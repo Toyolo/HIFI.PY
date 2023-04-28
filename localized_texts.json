@@ -1,0 +1,36 @@
+{
+    "en": {
+      "invalid_command": "Invalid command.",
+      "missing_required_argument": "Please provide all required arguments.",
+      "error_occurred": "An error occurred.",
+      "song_already_playing": "A song is already playing.",
+      "no_song_playing": "No song is currently playing.",
+      "queue_empty": "The queue is empty.",
+      "queue_shuffled": "The queue has been shuffled.",
+      "song_repeat": "The current song has been set to repeat.",
+      "music_stopped": "The music has been stopped."
+    },
+    "fr": {
+      "invalid_command": "Commande invalide.",
+      "missing_required_argument": "Veuillez fournir tous les arguments requis.",
+      "error_occurred": "Une erreur s'est produite.",
+      "song_already_playing": "Une chanson est déjà en cours de lecture.",
+      "no_song_playing": "Aucune chanson n'est actuellement en cours de lecture.",
+      "queue_empty": "La file d'attente est vide.",
+      "queue_shuffled": "La file d'attente a été mélangée.",
+      "song_repeat": "La chanson en cours a été répétée.",
+      "music_stopped": "La musique a été arrêtée."
+    },
+    "de": {
+      "invalid_command": "Ungültiger Befehl.",
+      "missing_required_argument": "Bitte geben Sie alle erforderlichen Argumente an.",
+      "error_occurred": "Ein Fehler ist aufgetreten.",
+      "song_already_playing": "Ein Lied wird bereits abgespielt.",
+      "no_song_playing": "Es wird derzeit kein Lied abgespielt.",
+      "queue_empty": "Die Warteschlange ist leer.",
+      "queue_shuffled": "Die Warteschlange wurde gemischt.",
+      "song_repeat": "Das aktuelle Lied wurde wiederholt.",
+      "music_stopped": "Die Musik wurde gestoppt."
+    }
+  }
+  
